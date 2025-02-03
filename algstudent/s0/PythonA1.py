@@ -2,7 +2,7 @@ from time import time
 from PythonA1v1 import listadoPrimos
 
 if __name__ == '__main__':
-    n = 10000
+    n = 80 * 1000
     for casos in range(7):
         t1 = time()
         primes = listadoPrimos(n)

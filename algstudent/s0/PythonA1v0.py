@@ -10,8 +10,10 @@ def primoA1(m):
     return p
 
 if __name__ == '__main__':
-    n = int(argv[1]) #parameter introduced by user
+    n = int(1 * 1000) #parameter introduced by user
     t1 = time()  #gives the time in seconds and with decimals (real)
     primoA1(n)
     t2 = time()
     print("n =", n, "***", "time =", int(1000*(t2-t1)), "milliseconds)")
+
+
