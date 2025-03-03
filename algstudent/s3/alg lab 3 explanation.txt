@@ -1,0 +1,8 @@
+a number of subproblems
+b the number u are substracting or dividing
+k complexity of the method without the recurssion call
+
+
+
+2^25 = 1180
+2^80 = x
